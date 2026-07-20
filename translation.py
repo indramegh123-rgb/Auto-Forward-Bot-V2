@@ -13,7 +13,7 @@ class Translation(object):
   HELP_TXT = """<b><u>🔆 HELP</b></u>
 
 <u>**📚 Available commands:**</u>
-<b>⏣ __/start - check I'm alive__ 
+<b>⏣ __/start - check I am alive__ 
 ⏣ __/forward - forward messages__
 ⏣ __/unequify - delete duplicate messages in channels__
 ⏣ __/settings - configure your settings__
